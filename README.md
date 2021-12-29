@@ -30,7 +30,7 @@ app.listen(PORT);
 ```
 
 - Go the frontend folder and run this command 
-`Npm run build`  
+`npm run build`  
 - Heroku install  https://devcenter.heroku.com/articles/heroku-cli 
 - From the command run `heroku login`
 - Go to heroku create new app 
